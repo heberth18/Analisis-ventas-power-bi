@@ -1,0 +1,263 @@
+﻿ID de Orden;Fecha;Producto;Precio;Cantidad;Tipo de Compra;Método de Pago;Gerente;Ciudad
+10452;2022-11-07 00:00:00;Papas Fritas;3,49;573,0659026;Online ; Gift Card;Tom      Jackson;Londres
+10453;2022-11-07 00:00:00;Bebidas;2,95;745,7627119;Online ; Gift Card;       Pablo Perez;Madrid
+10454;2022-11-07 00:00:00;Acompañantes & Otros;4,99;200,4008016;Tienda; Gift Card;Joao    Silva;Lisboa
+10455;2022-11-08 00:00:00;Hamburguesas;12,99;569,6689761;Tienda ; Tarjeta de Credito;Walter Muller;Berlín
+10456;2022-11-08 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Tienda ; Tarjeta de Credito;Walter Muller;Berlín
+10457;2022-11-08 00:00:00;Papas Fritas;3,49;573,0659026;Tienda ; Tarjeta de Credito;Remy    Monet;Paris
+10457;2022-11-08 00:00:00;Papas Fritas;3,49;573,0659026;Tienda ; Tarjeta de Credito;Remy    Monet;Paris
+10459;2022-11-08 00:00:00;Acompañantes & Otros;4,99;200,4008016;Tienda ; Tarjeta de Credito;Walter Muller;Berlín
+10460;2022-11-09 00:00:00;Hamburguesas;12,99;554,2725173;Tienda ; Tarjeta de Credito;Remy Monet;Paris
+10461;2022-11-09 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Tienda ; Tarjeta de Credito;Remy Monet;Paris
+10462;2022-11-09 00:00:00;Papas Fritas;3,49;573,0659026;Tienda ; Tarjeta de Credito;       Remy Monet;Paris
+10463;2022-11-09 00:00:00;Bebidas;2,95;677,9661017;Tienda ; Tarjeta de Credito;       Remy Monet;Paris
+10464;2022-11-09 00:00:00;Acompañantes & Otros;4,99;200,4008016;Tienda ; Tarjeta de Credito;Remy     Monet;Paris
+10465;2022-11-10 00:00:00;Hamburguesas;12,99;554,2725173;Tienda ; Tarjeta de Credito;Pablo Perez;Madrid
+10466;2022-11-10 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Tienda ; Tarjeta de Credito;Pablo Perez;Madrid
+10467;2022-11-10 00:00:00;Papas Fritas;3,49;573,0659026;Tienda ; Tarjeta de Credito;Pablo Perez;Madrid
+10468;2022-11-10 00:00:00;Bebidas;2,95;677,9661017;Tienda ; Tarjeta de Credito;       Pablo Perez;Madrid
+10468;2022-11-10 00:00:00;Bebidas;2,95;677,9661017;Tienda ; Tarjeta de Credito;       Pablo Perez;Madrid
+10470;2022-11-11 00:00:00;Hamburguesas;12,99;554,2725173;Tienda ; Tarjeta de Credito;       Pablo Perez;Madrid
+10471;2022-11-11 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Tienda ; Tarjeta de Credito;       Pablo Perez;Madrid
+10472;2022-11-11 00:00:00;Papas Fritas;3,49;630,3724928;Tienda ; Tarjeta de Credito;Pablo   Perez;Madrid
+10473;2022-11-11 00:00:00;Bebidas;2,95;677,9661017;Tienda ; Tarjeta de Credito;       Pablo Perez;Madrid
+10474;2022-11-11 00:00:00;Acompañantes & Otros;4,99;200,4008016;Tienda ; Tarjeta de Credito;       Pablo Perez;Madrid
+10475;2022-11-12 00:00:00;Hamburguesas;12,99;523,4795997;Tienda ; Tarjeta de Credito;       Pablo Perez;Madrid
+10476;2022-11-12 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Tienda ; Tarjeta de Credito;Pablo Perez;Madrid
+10477;2022-11-12 00:00:00;Papas Fritas;3,49;630,3724928;Tienda ; Tarjeta de Credito;Pablo  Perez;Madrid
+10478;2022-11-12 00:00:00;Bebidas;2,95;677,9661017;Tienda ; Tarjeta de Credito;Pablo Perez;Madrid
+10479;2022-11-12 00:00:00;Acompañantes & Otros;4,99;200,4008016;Tienda ; Tarjeta de Credito;Pablo    Perez;Madrid
+10480;2022-11-13 00:00:00;Hamburguesas;12,99;508,0831409;Tienda ; Tarjeta de Credito;Pablo Perez;Madrid
+10481;2022-11-13 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Tienda ; Tarjeta de Credito;Pablo Perez;Madrid
+10482;2022-11-13 00:00:00;Papas Fritas;25,5;630,3724928;Tienda ; Tarjeta de Credito;Joao Silva;Lisboa
+10483;2022-11-13 00:00:00;Bebidas;33,22;677,9661017;Tienda ; Tarjeta de Credito;Joao    Silva;Lisboa
+10484;2022-11-13 00:00:00;Acompañantes & Otros;21,44;200,4008016;Tienda ; Tarjeta de Credito;Joao    Silva;Lisboa
+10485;2022-11-14 00:00:00;Hamburguesas;27,99;523,4795997;Tienda ; Tarjeta de Credito;Joao    Silva;Lisboa
+10486;2022-11-14 00:00:00;Sándwiches de Pollo;29,05;201,0050251;Tienda ; Tarjeta de Credito;Joao    Silva;Lisboa
+10487;2022-11-14 00:00:00;Papas Fritas;3,49;630,3724928;Tienda ; Tarjeta de Credito;Joao Silva;Lisboa
+10488;2022-11-14 00:00:00;Bebidas;2,95;677,9661017;Tienda ; Tarjeta de Credito;Joao Silva;Lisboa
+10489;2022-11-14 00:00:00;Acompañantes & Otros;4,99;200,4008016;Tienda ; Tarjeta de Credito;Pablo Perez;Madrid
+10490;2022-11-15 00:00:00;Hamburguesas;12,99;508,0831409;Tienda ; Tarjeta de Credito;Pablo Perez;Madrid
+10491;2022-11-15 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Tienda ; Tarjeta de Credito;Pablo Perez;Madrid
+10492;2022-11-15 00:00:00;Papas Fritas;3,49;573,0659026;Tienda ; Tarjeta de Credito;Pablo Perez;Madrid
+10493;2022-11-15 00:00:00;Bebidas;2,95;677,9661017;Tienda ; Tarjeta de Credito;Pablo Perez;Madrid
+10494;2022-11-15 00:00:00;Acompañantes & Otros;4,99;200,4008016;Tienda ; Tarjeta de Credito;Pablo Perez;Madrid
+10495;2022-11-16 00:00:00;Hamburguesas;12,99;508,0831409;Tienda ; Tarjeta de Credito;Pablo Perez;Madrid
+10496;2022-11-16 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Tienda ; Tarjeta de Credito;Pablo Perez;Madrid
+10497;2022-11-16 00:00:00;Papas Fritas;3,49;573,0659026;Tienda ; Tarjeta de Credito;Pablo Perez;Madrid
+10498;2022-11-16 00:00:00;Bebidas;2,95;677,9661017;Autoservicio ; Tarjeta de Credito;Pablo Perez;Madrid
+10499;2022-11-16 00:00:00;Acompañantes & Otros;4,99;200,4008016;Autoservicio ; Tarjeta de Credito;Pablo Perez;Madrid
+10500;2022-11-17 00:00:00;Hamburguesas;12,99;523,4795997;Autoservicio ; Tarjeta de Credito;Pablo Perez;Madrid
+10501;2022-11-17 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Autoservicio ; Tarjeta de Credito;Pablo Perez;Madrid
+10502;2022-11-17 00:00:00;Papas Fritas;3,49;630,3724928;Autoservicio ; Tarjeta de Credito;Pablo Perez;Madrid
+10503;2022-11-17 00:00:00;Bebidas;2,95;677,9661017;Autoservicio ; Tarjeta de Credito;Pablo Perez;Madrid
+10504;2022-11-17 00:00:00;Acompañantes & Otros;4,99;200,4008016;Autoservicio ; Tarjeta de Credito;Pablo Perez;Madrid
+10505;2022-11-18 00:00:00;Hamburguesas;12,99;538,8760585;Autoservicio ; Tarjeta de Credito;Pablo Perez;Madrid
+10506;2022-11-18 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Autoservicio ; Tarjeta de Credito;Pablo Perez;Madrid
+10507;2022-11-18 00:00:00;Papas Fritas;3,49;687,6790831;Autoservicio ; Tarjeta de Credito;Pablo Perez;Madrid
+10508;2022-11-18 00:00:00;Bebidas;2,95;677,9661017;Autoservicio ; Tarjeta de Credito;Pablo Perez;Madrid
+10509;2022-11-18 00:00:00;Acompañantes & Otros;4,99;200,4008016;Autoservicio ; Tarjeta de Credito;Pablo Perez;Madrid
+10510;2022-11-19 00:00:00;Hamburguesas;12,99;508,0831409;Autoservicio ; Tarjeta de Credito;Pablo Perez;Madrid
+10511;2022-11-19 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Autoservicio ; Tarjeta de Credito;Joao Silva;Lisboa
+10512;2022-11-19 00:00:00;Papas Fritas;3,49;687,6790831;Autoservicio ; Tarjeta de Credito;Joao Silva;Lisboa
+10513;2022-11-19 00:00:00;Bebidas;2,95;677,9661017;Autoservicio ; Efectivo;Joao Silva;Lisboa
+10514;2022-11-19 00:00:00;Acompañantes & Otros;4,99;200,4008016;Autoservicio ; Efectivo;Joao Silva;Lisboa
+10515;2022-11-20 00:00:00;Hamburguesas;12,99;477,2902232;Autoservicio ; Efectivo;Joao Silva;Lisboa
+10516;2022-11-20 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Autoservicio ; Efectivo;Joao Silva;Lisboa
+10483;2022-11-13 00:00:00;Bebidas;2,95;677,9661017;Tienda ; Tarjeta de Credito;Joao    Silva;Lisboa
+10484;2022-11-13 00:00:00;Acompañantes & Otros;4,99;200,4008016;Tienda ; Tarjeta de Credito;Joao    Silva;Lisboa
+10485;2022-11-14 00:00:00;Hamburguesas;12,99;523,4795997;Tienda ; Tarjeta de Credito;Joao    Silva;Lisboa
+10520;2022-11-21 00:00:00;Hamburguesas;12,99;492,6866821;Autoservicio ; Efectivo;Remy Monet;Paris
+10521;2022-11-21 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Autoservicio ; Efectivo;Remy Monet;Paris
+10522;2022-11-21 00:00:00;Papas Fritas;3,49;687,6790831;Autoservicio ; Efectivo;Remy Monet;Paris
+10523;2022-11-21 00:00:00;Bebidas;2,95;745,7627119;Autoservicio ; Efectivo;Remy Monet;Paris
+10524;2022-11-21 00:00:00;Acompañantes & Otros;4,99;200,4008016;Autoservicio ; Efectivo;Remy Monet;Paris
+10525;2022-11-22 00:00:00;Hamburguesas;12,99;461,8937644;Autoservicio ; Efectivo;Remy Monet;Paris
+10526;2022-11-22 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Autoservicio ; Efectivo;Remy Monet;Paris
+10527;2022-11-22 00:00:00;Papas Fritas;3,49;687,6790831;Autoservicio ; Efectivo;Remy Monet;Paris
+10528;2022-11-22 00:00:00;Bebidas;2,95;745,7627119;Autoservicio ; Efectivo;Remy Monet;Paris
+10529;2022-11-22 00:00:00;Acompañantes & Otros;4,99;200,4008016;Autoservicio ; Efectivo;Remy Monet;Paris
+10530;2022-11-23 00:00:00;Hamburguesas;12,99;477,2902232;Autoservicio ; Efectivo;Remy Monet;Paris
+10531;2022-11-23 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Autoservicio ; Efectivo;Remy Monet;Paris
+10532;2022-11-23 00:00:00;Papas Fritas;3,49;687,6790831;Autoservicio ; Efectivo;Joao Silva;Lisboa
+10533;2022-11-23 00:00:00;Bebidas;2,95;745,7627119;Autoservicio ; Efectivo;Joao Silva;Lisboa
+10534;2022-11-23 00:00:00;Acompañantes & Otros;4,99;200,4008016;Autoservicio ; Efectivo;Pablo Perez;Madrid
+10535;2022-11-24 00:00:00;Hamburguesas;12,99;477,2902232;Autoservicio ; Tarjeta de Credito;Pablo Perez;Madrid
+10536;2022-11-24 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Autoservicio ; Tarjeta de Credito;Pablo Perez;Madrid
+10537;2022-11-24 00:00:00;Papas Fritas;3,49;630,3724928;Autoservicio ; Tarjeta de Credito;Pablo Perez;Madrid
+10538;2022-11-24 00:00:00;Bebidas;2,95;745,7627119;Autoservicio ; Tarjeta de Credito;Pablo Perez;Madrid
+10539;2022-11-24 00:00:00;Acompañantes & Otros;4,99;200,4008016;Autoservicio ; Tarjeta de Credito;Pablo Perez;Madrid
+10540;2022-11-25 00:00:00;Hamburguesas;12,99;461,8937644;Autoservicio ; Tarjeta de Credito;Pablo Perez;Madrid
+10541;2022-11-25 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Autoservicio ; Tarjeta de Credito;Tom Jackson;Londres
+10542;2022-11-25 00:00:00;Papas Fritas;3,49;630,3724928;Autoservicio ; Tarjeta de Credito;Tom Jackson;Londres
+10543;2022-11-25 00:00:00;Bebidas;2,95;745,7627119;Autoservicio ; Tarjeta de Credito;Tom Jackson;Londres
+10544;2022-11-25 00:00:00;Acompañantes & Otros;4,99;200,4008016;Autoservicio ; Tarjeta de Credito;Tom Jackson;Londres
+10545;2022-11-26 00:00:00;Hamburguesas;12,99;446,4973056;Autoservicio ; Tarjeta de Credito;Tom Jackson;Londres
+10546;2022-11-26 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Autoservicio ; Tarjeta de Credito;Tom Jackson;Londres
+10547;2022-11-26 00:00:00;Papas Fritas;3,49;630,3724928;Autoservicio ; Tarjeta de Credito;Tom Jackson;Londres
+10548;2022-11-26 00:00:00;Bebidas;2,95;745,7627119;Autoservicio ; Tarjeta de Credito;Tom Jackson;Londres
+10549;2022-11-26 00:00:00;Acompañantes & Otros;4,99;200,4008016;Autoservicio ; Tarjeta de Credito;Tom Jackson;Londres
+10550;2022-11-27 00:00:00;Hamburguesas;12,99;461,8937644;Autoservicio ; Tarjeta de Credito;Tom Jackson;Londres
+10551;2022-11-27 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Autoservicio ; Tarjeta de Credito;Tom Jackson;Londres
+10552;2022-11-27 00:00:00;Papas Fritas;3,49;630,3724928;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10553;2022-11-27 00:00:00;Bebidas;2,95;745,7627119;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10554;2022-11-27 00:00:00;Acompañantes & Otros;4,99;200,4008016;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10555;2022-11-28 00:00:00;Hamburguesas;12,99;477,2902232;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10556;2022-11-28 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10557;2022-11-28 00:00:00;Papas Fritas;3,49;630,3724928;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10558;2022-11-28 00:00:00;Bebidas;2,95;677,9661017;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10559;2022-11-28 00:00:00;Acompañantes & Otros;4,99;200,4008016;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10560;2022-11-29 00:00:00;Hamburguesas;12,99;477,2902232;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10561;2022-11-29 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10562;2022-11-29 00:00:00;Papas Fritas;3,49;630,3724928;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10563;2022-11-29 00:00:00;Bebidas;2,95;677,9661017;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10564;2022-11-29 00:00:00;Acompañantes & Otros;4,99;200,4008016;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10565;2022-11-30 00:00:00;Hamburguesas;12,99;492,6866821;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10566;2022-11-30 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10567;2022-11-30 00:00:00;Papas Fritas;3,49;630,3724928;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10568;2022-11-30 00:00:00;Bebidas;2,95;677,9661017;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10569;2022-11-30 00:00:00;Acompañantes & Otros;4,99;200,4008016;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10570;2022-12-01 00:00:00;Hamburguesas;12,99;492,6866821;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10571;2022-12-01 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10572;2022-12-01 00:00:00;Papas Fritas;3,49;573,0659026;Online ; Tarjeta de Credito;Remy Monet;Paris
+10573;2022-12-01 00:00:00;Bebidas;2,95;677,9661017;Online ; Tarjeta de Credito;Remy Monet;Paris
+10574;2022-12-01 00:00:00;Acompañantes & Otros;4,99;200,4008016;Online ; Tarjeta de Credito;Remy Monet;Paris
+10575;2022-12-02 00:00:00;Hamburguesas;12,99;523,4795997;Online ; Tarjeta de Credito;Remy Monet;Paris
+10576;2022-12-02 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Online ; Tarjeta de Credito;Remy Monet;Paris
+10577;2022-12-02 00:00:00;Papas Fritas;3,49;630,3724928;Online ; Tarjeta de Credito;Remy Monet;Paris
+10578;2022-12-02 00:00:00;Bebidas;2,95;677,9661017;Online ; Tarjeta de Credito;Remy Monet;Paris
+10579;2022-12-02 00:00:00;Acompañantes & Otros;4,99;200,4008016;Online ; Tarjeta de Credito;Remy Monet;Paris
+10580;2022-12-03 00:00:00;Hamburguesas;12,99;523,4795997;Online ; Tarjeta de Credito;Remy Monet;Paris
+10581;2022-12-03 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Online ; Tarjeta de Credito;Remy Monet;Paris
+10582;2022-12-03 00:00:00;Papas Fritas;3,49;630,3724928;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10583;2022-12-03 00:00:00;Bebidas;2,95;677,9661017;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10584;2022-12-03 00:00:00;Acompañantes & Otros;4,99;200,4008016;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10585;2022-12-04 00:00:00;Hamburguesas;12,99;538,8760585;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10586;2022-12-04 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10537;2022-11-24 00:00:00;Papas Fritas;3,49;630,3724928;Autoservicio ; Tarjeta de Credito;Pablo Perez;Madrid
+10538;2022-11-24 00:00:00;Bebidas;2,95;745,7627119;Autoservicio ; Tarjeta de Credito;Pablo Perez;Madrid
+10539;2022-11-24 00:00:00;Acompañantes & Otros;4,99;200,4008016;Autoservicio ; Tarjeta de Credito;Pablo Perez;Madrid
+10590;2022-12-05 00:00:00;Hamburguesas;12,99;554,2725173;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10591;2022-12-05 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10592;2022-12-05 00:00:00;Papas Fritas;3,49;573,0659026;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10593;2022-12-05 00:00:00;Bebidas;2,95;677,9661017;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10594;2022-12-05 00:00:00;Acompañantes & Otros;4,99;200,4008016;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10595;2022-12-06 00:00:00;Hamburguesas;12,99;538,8760585;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10596;2022-12-06 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10597;2022-12-06 00:00:00;Papas Fritas;3,49;573,0659026;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10598;2022-12-06 00:00:00;Bebidas;2,95;677,9661017;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10599;2022-12-06 00:00:00;Acompañantes & Otros;4,99;200,4008016;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10600;2022-12-07 00:00:00;Hamburguesas;12,99;523,4795997;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10601;2022-12-07 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Online ; Tarjeta de Credito;Tom Jackson;Londres
+10602;2022-12-07 00:00:00;Papas Fritas;3,49;630,3724928;Online ; Efectivo;Tom Jackson;Londres
+10603;2022-12-07 00:00:00;Bebidas;2,95;677,9661017;Online ; Efectivo;Tom Jackson;Londres
+10604;2022-12-07 00:00:00;Acompañantes & Otros;4,99;200,4008016;Online ; Efectivo;Tom Jackson;Londres
+10605;2022-12-08 00:00:00;Hamburguesas;12,99;538,8760585;Online ; Efectivo;Tom Jackson;Londres
+10606;2022-12-08 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Online ; Efectivo;Tom Jackson;Londres
+10607;2022-12-08 00:00:00;Papas Fritas;3,49;630,3724928;Online ; Efectivo;Tom Jackson;Londres
+10608;2022-12-08 00:00:00;Bebidas;2,95;677,9661017;Online ; Gift Card;Tom Jackson;Londres
+10609;2022-12-08 00:00:00;Acompañantes & Otros;4,99;200,4008016;Online ; Gift Card;Tom Jackson;Londres
+10610;2022-12-09 00:00:00;Hamburguesas;12,99;569,6689761;Online ; Gift Card;Tom Jackson;Londres
+10611;2022-12-09 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Online ; Gift Card;Tom Jackson;Londres
+10612;2022-12-09 00:00:00;Papas Fritas;3,49;630,3724928;Online ; Gift Card;Tom Jackson;Londres
+10613;2022-12-09 00:00:00;Bebidas;2,95;677,9661017;Online ; Gift Card;Tom Jackson;Londres
+10614;2022-12-09 00:00:00;Acompañantes & Otros;4,99;200,4008016;Online ; Gift Card;Tom Jackson;Londres
+10615;2022-12-10 00:00:00;Hamburguesas;12,99;569,6689761;Online ; Gift Card;Tom Jackson;Londres
+10616;2022-12-10 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Online ; Gift Card;Tom Jackson;Londres
+10617;2022-12-10 00:00:00;Papas Fritas;3,49;630,3724928;Online ; Gift Card;Tom Jackson;Londres
+10618;2022-12-10 00:00:00;Bebidas;2,95;677,9661017;Online ; Gift Card;Tom Jackson;Londres
+10619;2022-12-10 00:00:00;Acompañantes & Otros;4,99;200,4008016;Online ; Gift Card;Tom Jackson;Londres
+10620;2022-12-11 00:00:00;Hamburguesas;12,99;585,0654349;Online ; Gift Card;Tom Jackson;Londres
+10621;2022-12-11 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Online ; Gift Card;Tom Jackson;Londres
+10622;2022-12-11 00:00:00;Papas Fritas;3,49;630,3724928;Online ; Gift Card;Tom Jackson;Londres
+10623;2022-12-11 00:00:00;Bebidas;2,95;745,7627119;Online ; Gift Card;Tom Jackson;Londres
+10624;2022-12-11 00:00:00;Acompañantes & Otros;4,99;200,4008016;Online ; Gift Card;Tom Jackson;Londres
+10625;2022-12-12 00:00:00;Hamburguesas;12,99;569,6689761;Online ; Gift Card;Tom Jackson;Londres
+10626;2022-12-12 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Online ; Gift Card;Tom Jackson;Londres
+10627;2022-12-12 00:00:00;Papas Fritas;3,49;630,3724928;Online ; Gift Card;Tom Jackson;Londres
+10628;2022-12-12 00:00:00;Bebidas;2,95;677,9661017;Online ; Gift Card;Joao Silva;Lisboa
+10629;2022-12-12 00:00:00;Acompañantes & Otros;4,99;200,4008016;Online ; Gift Card;Joao Silva;Lisboa
+10630;2022-12-13 00:00:00;Hamburguesas;12,99;569,6689761;Online ; Efectivo;Joao Silva;Lisboa
+10631;2022-12-13 00:00:00;Sándwiches de Pollo;9,95;201,0050251;Online ; Gift Card;Joao Silva;Lisboa
+10632;2022-12-13 00:00:00;Papas Fritas;3,49;630,3724928;Online ; Gift Card;Joao Silva;Lisboa
+10633;2022-12-13 00:00:00;Bebidas;2,95;677,9661017;Online ; Gift Card;Joao Silva;Lisboa
+10634;2022-12-13 00:00:00;Acompañantes & Otros;4,99;200,4008016;Online ; Gift Card;Joao Silva;Lisboa
+10635;2022-12-14 00:00:00;Hamburguesas;12,99;554,2725173;Online ; Gift Card;Joao Silva;Lisboa
+10636;2022-12-14 00:00:00;Sándwiches de Pollo;9,95;221,1055276;Online ; Gift Card;Joao Silva;Lisboa
+10637;2022-12-14 00:00:00;Papas Fritas;3,49;630,3724928;Online ; Gift Card;Joao Silva;Lisboa
+10638;2022-12-14 00:00:00;Bebidas;2,95;677,9661017;Online ; Gift Card;Joao Silva;Lisboa
+10639;2022-12-14 00:00:00;Acompañantes & Otros;4,99;200,4008016;Online ; Gift Card;Joao Silva;Lisboa
+10640;2022-12-15 00:00:00;Hamburguesas;12,99;538,8760585;Online ; Gift Card;Joao Silva;Lisboa
+10641;2022-12-15 00:00:00;Sándwiches de Pollo;9,95;221,1055276;Online ; Gift Card;Joao Silva;Lisboa
+10642;2022-12-15 00:00:00;Papas Fritas;3,49;630,3724928;Online ; Efectivo;Joao Silva;Lisboa
+10643;2022-12-15 00:00:00;Bebidas;2,95;677,9661017;Online ; Efectivo;Joao Silva;Lisboa
+10644;2022-12-15 00:00:00;Acompañantes & Otros;4,99;200,4008016;Online ; Efectivo;Joao Silva;Lisboa
+10645;2022-12-16 00:00:00;Hamburguesas;12,99;569,6689761;Online ; Efectivo;Joao Silva;Lisboa
+10646;2022-12-16 00:00:00;Sándwiches de Pollo;9,95;221,1055276;Online ; Efectivo;Joao Silva;Lisboa
+10647;2022-12-16 00:00:00;Papas Fritas;3,49;630,3724928;Online ; Gift Card;Joao Silva;Lisboa
+10648;2022-12-16 00:00:00;Bebidas;2,95;745,7627119;Online ; Gift Card;Joao Silva;Lisboa
+10649;2022-12-16 00:00:00;Acompañantes & Otros;4,99;200,4008016;Online ; Gift Card;Joao Silva;Lisboa
+10650;2022-12-17 00:00:00;Hamburguesas;12,99;585,0654349;Online ; Gift Card;Joao Silva;Lisboa
+10651;2022-12-17 00:00:00;Sándwiches de Pollo;9,95;221,1055276;Online ; Gift Card;Joao Silva;Lisboa
+10652;2022-12-17 00:00:00;Papas Fritas;3,49;687,6790831;Online ; Gift Card;Joao Silva;Lisboa
+10653;2022-12-17 00:00:00;Bebidas;2,95;745,7627119;Online ; Gift Card;Joao Silva;Lisboa
+10654;2022-12-17 00:00:00;Acompañantes & Otros;4,99;200,4008016;Online ; Gift Card;Joao Silva;Lisboa
+10655;2022-12-18 00:00:00;Hamburguesas;12,99;600,4618938;Online ; Gift Card;Joao Silva;Lisboa
+10656;2022-12-18 00:00:00;Sándwiches de Pollo;9,95;221,1055276;Online ; Gift Card;Joao Silva;Lisboa
+10657;2022-12-18 00:00:00;Papas Fritas;3,49;687,6790831;Online ; Gift Card;Joao Silva;Lisboa
+10658;2022-12-18 00:00:00;Bebidas;2,95;745,7627119;Online ; Efectivo;Joao Silva;Lisboa
+10659;2022-12-18 00:00:00;Acompañantes & Otros;4,99;200,4008016;Online ; Efectivo;Joao Silva;Lisboa
+10660;2022-12-19 00:00:00;Hamburguesas;12,99;631,2548114;Tienda ; Efectivo;Joao Silva;Lisboa
+10661;2022-12-19 00:00:00;Sándwiches de Pollo;9,95;221,1055276;Tienda ; Efectivo;Joao Silva;Lisboa
+10662;2022-12-19 00:00:00;Papas Fritas;3,49;630,3724928;Tienda ; Efectivo;Joao Silva;Lisboa
+10663;2022-12-19 00:00:00;Bebidas;2,95;745,7627119;Tienda ; Efectivo;Joao Silva;Lisboa
+10664;2022-12-19 00:00:00;Acompañantes & Otros;4,99;200,4008016;Tienda ; Efectivo;Joao Silva;Lisboa
+10665;2022-12-20 00:00:00;Hamburguesas;12,99;646,6512702;Tienda ; Efectivo;Joao Silva;Lisboa
+10666;2022-12-20 00:00:00;Sándwiches de Pollo;9,95;221,1055276;Tienda ; Efectivo;Joao Silva;Lisboa
+10667;2022-12-20 00:00:00;Papas Fritas;3,49;630,3724928;Tienda ; Efectivo;Joao Silva;Lisboa
+10668;2022-12-20 00:00:00;Bebidas;2,95;745,7627119;Tienda ; Efectivo;Joao Silva;Lisboa
+10669;2022-12-20 00:00:00;Acompañantes & Otros;4,99;200,4008016;Tienda ; Efectivo;Joao Silva;Lisboa
+10670;2022-12-21 00:00:00;Hamburguesas;12,99;677,4441878;Tienda ; Efectivo;Joao Silva;Lisboa
+10671;2022-12-21 00:00:00;Sándwiches de Pollo;9,95;221,1055276;Tienda ; Efectivo;Joao Silva;Lisboa
+10672;2022-12-21 00:00:00;Papas Fritas;3,49;630,3724928;Tienda ; Efectivo;Joao Silva;Lisboa
+10673;2022-12-21 00:00:00;Bebidas;2,95;745,7627119;Tienda ; Efectivo;Joao Silva;Lisboa
+10674;2022-12-21 00:00:00;Acompañantes & Otros;4,99;200,4008016;Tienda ; Efectivo;Joao Silva;Lisboa
+10675;2022-12-22 00:00:00;Hamburguesas;12,99;677,4441878;Tienda ; Efectivo;Joao Silva;Lisboa
+10676;2022-12-22 00:00:00;Sándwiches de Pollo;9,95;241,2060302;Tienda ; Efectivo;Joao Silva;Lisboa
+10677;2022-12-22 00:00:00;Papas Fritas;3,49;630,3724928;Tienda ; Efectivo;Joao Silva;Lisboa
+10678;2022-12-22 00:00:00;Bebidas;2,95;745,7627119;Tienda ; Efectivo;Joao Silva;Lisboa
+10679;2022-12-22 00:00:00;Acompañantes & Otros;4,99;200,4008016;Tienda ; Efectivo;Joao Silva;Lisboa
+10680;2022-12-23 00:00:00;Hamburguesas;12,99;646,6512702;Tienda ; Efectivo;Joao Silva;Lisboa
+10681;2022-12-23 00:00:00;Sándwiches de Pollo;9,95;241,2060302;Tienda ; Efectivo;Joao Silva;Lisboa
+10682;2022-12-23 00:00:00;Papas Fritas;3,49;630,3724928;Tienda ; Efectivo;Joao Silva;Lisboa
+10683;2022-12-23 00:00:00;Bebidas;2,95;677,9661017;Tienda ; Efectivo;Joao Silva;Lisboa
+10684;2022-12-23 00:00:00;Acompañantes & Otros;4,99;200,4008016;Tienda ; Efectivo;Joao Silva;Lisboa
+10685;2022-12-24 00:00:00;Hamburguesas;12,99;677,4441878;Tienda ; Efectivo;Joao Silva;Lisboa
+10686;2022-12-24 00:00:00;Sándwiches de Pollo;9,95;241,2060302;Tienda ; Efectivo;Joao Silva;Lisboa
+10687;2022-12-24 00:00:00;Papas Fritas;3,49;630,3724928;Tienda ; Efectivo;Walter Muller;Berlín
+10688;2022-12-24 00:00:00;Bebidas;2,95;677,9661017;Tienda ; Efectivo;Walter Muller;Berlín
+10689;2022-12-24 00:00:00;Acompañantes & Otros;4,99;200,4008016;Tienda ; Efectivo;Walter Muller;Berlín
+10690;2022-12-25 00:00:00;Hamburguesas;12,99;677,4441878;Tienda ; Efectivo;Walter Muller;Berlín
+10691;2022-12-25 00:00:00;Sándwiches de Pollo;9,95;261,3065327;Tienda ; Efectivo;Walter Muller;Berlín
+10692;2022-12-25 00:00:00;Papas Fritas;3,49;630,3724928;Tienda ; Efectivo;Walter Muller;Berlín
+10693;2022-12-25 00:00:00;Bebidas;2,95;677,9661017;Tienda ; Efectivo;Walter Muller;Berlín
+10694;2022-12-25 00:00:00;Acompañantes & Otros;4,99;200,4008016;Tienda ; Efectivo;Walter Muller;Berlín
+10695;2022-12-26 00:00:00;Hamburguesas;12,99;692,8406467;Tienda ; Efectivo;Walter Muller;Berlín
+10696;2022-12-26 00:00:00;Sándwiches de Pollo;9,95;281,4070352;Tienda ; Efectivo;Walter Muller;Berlín
+10697;2022-12-26 00:00:00;Papas Fritas;3,49;630,3724928;Tienda ; Efectivo;Walter Muller;Berlín
+10698;2022-12-26 00:00:00;Bebidas;2,95;677,9661017;Tienda ; Efectivo;Walter Muller;Berlín
+10699;2022-12-26 00:00:00;Acompañantes & Otros;4,99;200,4008016;Tienda ; Efectivo;Walter Muller;Berlín
+10700;2022-12-27 00:00:00;Hamburguesas;12,99;692,8406467;Tienda ; Efectivo;Walter Muller;Berlín
+10701;2022-12-27 00:00:00;Sándwiches de Pollo;9,95;281,4070352;Tienda ; Efectivo;Walter Muller;Berlín
+10702;2022-12-27 00:00:00;Papas Fritas;3,49;630,3724928;Tienda ; Efectivo;Walter Muller;Berlín
+10703;2022-12-27 00:00:00;Bebidas;2,95;677,9661017;Tienda ; Gift Card;Walter Muller;Berlín
+10704;2022-12-27 00:00:00;Acompañantes & Otros;4,99;200,4008016;Autoservicio ; Gift Card;Walter Muller;Berlín
+10705;2022-12-28 00:00:00;Hamburguesas;12,99;723,6335643;Autoservicio ; Gift Card;Walter Muller;Berlín
+10706;2022-12-28 00:00:00;Sándwiches de Pollo;9,95;301,5075377;Autoservicio ; Gift Card;Walter Muller;Berlín
+10707;2022-12-28 00:00:00;Papas Fritas;3,49;630,3724928;Autoservicio ; Gift Card;Walter Muller;Berlín
+10708;2022-12-28 00:00:00;Bebidas;2,95;677,9661017;Autoservicio ; Gift Card;Walter Muller;Berlín
+10709;2022-12-28 00:00:00;Acompañantes & Otros;4,99;200,4008016;Autoservicio ; Gift Card;Walter Muller;Berlín
+10710;2022-12-29 00:00:00;Hamburguesas;12,99;754,4264819;Autoservicio ; Gift Card;Walter Muller;Berlín
+10711;2022-12-29 00:00:00;Sándwiches de Pollo;9,95;281,4070352;Autoservicio ; Gift Card;Walter Muller;Berlín
+10712;2022-12-29 00:00:00;Papas Fritas;3,49;630,3724928;Autoservicio ; Gift Card;Walter Muller;Berlín
+10713;2022-12-29 00:00:00;Bebidas;2,95;677,9661017;Autoservicio ; Gift Card;Walter Muller;Berlín
