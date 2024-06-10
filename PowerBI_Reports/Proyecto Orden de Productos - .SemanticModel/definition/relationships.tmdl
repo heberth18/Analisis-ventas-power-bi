@@ -1,0 +1,9 @@
+relationship 1fef0d42-ad74-4ed2-aa58-733c4829a271
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Calendario.Date
+	toColumn: LocalDateTable_5cde808e-4c63-4fbe-862f-5316236030e9.Date
+
+relationship 61660146-43ff-8312-f1be-91bd69020981
+	fromColumn: 'Orden de Productos'.Fecha
+	toColumn: Calendario.Date
+

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Proyecto Orden de Productos - "
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "7db2e25a-c477-47c4-8899-abd1c2628679"
+  }
+}

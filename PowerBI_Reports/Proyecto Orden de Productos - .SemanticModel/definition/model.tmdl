@@ -1,0 +1,24 @@
+model Model
+	culture: es-VE
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: es-VE
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation PBI_QueryOrder = ["Orden de Productos","Rev duplicados","Medidas"]
+
+annotation __PBI_TimeIntelligenceEnabled = 1
+
+annotation PBIDesktopVersion = 2.129.1229.0 (24.05)
+
+annotation PBI_ProTooling = ["DevMode"]
+
+ref table 'Orden de Productos'
+ref table DateTableTemplate_aae6dc1c-07ba-4147-80a3-e0145f890880
+ref table Medidas
+ref table Calendario
+ref table LocalDateTable_5cde808e-4c63-4fbe-862f-5316236030e9
+
+ref cultureInfo es-VE
+

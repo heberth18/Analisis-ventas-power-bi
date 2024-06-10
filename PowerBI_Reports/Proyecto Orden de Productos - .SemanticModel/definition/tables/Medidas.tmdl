@@ -1,0 +1,57 @@
+table Medidas
+	lineageTag: 390515fb-b9a9-4c33-9355-4ccfa21c8c59
+
+	measure 'Mín Venta' =
+			
+			MINX('Orden de Productos', 'Orden de Productos'[Precio] * 'Orden de Productos'[Cantidad])
+		lineageTag: cf19d3cb-31eb-46bd-ab00-793d4611c9dd
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'M Venta' =
+			
+			SUMX('Orden de Productos', 'Orden de Productos'[Precio] * 'Orden de Productos'[Cantidad])
+		lineageTag: 4faacc4a-b090-49de-8430-e85f40bd6e5d
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Máx Venta' =
+			
+			maxX('Orden de Productos', 'Orden de Productos'[Precio] * 'Orden de Productos'[Cantidad])
+		lineageTag: 36f002aa-e26b-4bb9-aa31-f2a68f620fab
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Mediana venta' =
+			
+			MEDIANX('Orden de Productos', 'Orden de Productos'[Precio] * 'Orden de Productos'[Cantidad])
+		lineageTag: 71870c54-c202-4082-ba15-a85029b5ec8d
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Promedio venta' =
+			
+			AVERAGEX('Orden de Productos', 'Orden de Productos'[Precio] * 'Orden de Productos'[Cantidad])
+		lineageTag: d3a44445-cc77-4232-ac80-05da2ef00843
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'std Venta' =
+			
+			STDEVX.P('Orden de Productos', 'Orden de Productos'[Precio] * 'Orden de Productos'[Cantidad])
+		lineageTag: 62962d70-03b4-43d7-9c1f-d1324cb41aca
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	partition Medidas = m
+		mode: import
+		source =
+				let
+				    Origen = Table.FromRows(Json.Document(Binary.Decompress(Binary.FromText("i44FAA==", BinaryEncoding.Base64), Compression.Deflate)), let _t = ((type nullable text) meta [Serialized.Text = true]) in type table [Columna1 = _t]),
+				    #"Tipo cambiado" = Table.TransformColumnTypes(Origen,{{"Columna1", type text}}),
+				    #"Columnas quitadas" = Table.RemoveColumns(#"Tipo cambiado",{"Columna1"})
+				in
+				    #"Columnas quitadas"
+
+	annotation PBI_ResultType = Table
+

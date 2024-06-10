@@ -1,0 +1,99 @@
+table 'Orden de Productos'
+	lineageTag: 7e0d338f-c8d1-4f3d-a630-f92a437a6543
+
+	column 'ID de Orden'
+		dataType: int64
+		formatString: 0
+		lineageTag: ca59f3c7-e4e7-47c1-af35-e1eb5195a9f6
+		summarizeBy: sum
+		sourceColumn: ID de Orden
+
+		annotation SummarizationSetBy = Automatic
+
+	column Fecha
+		dataType: dateTime
+		formatString: General Date
+		lineageTag: fd91b46d-fa11-4dcc-8ec4-5ece9fc5baa5
+		summarizeBy: none
+		sourceColumn: Fecha
+
+		annotation SummarizationSetBy = Automatic
+
+	column Producto
+		dataType: string
+		lineageTag: a9efca28-6a1d-4e4c-b5a9-91af8c0e9632
+		summarizeBy: none
+		sourceColumn: Producto
+
+		annotation SummarizationSetBy = Automatic
+
+	column Precio
+		dataType: double
+		lineageTag: 5a958e85-dcf5-4404-a9f4-3771cc2566b4
+		summarizeBy: sum
+		sourceColumn: Precio
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column Cantidad
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 4b4628d7-7ed5-4f09-92c5-214bde05b325
+		summarizeBy: sum
+		sourceColumn: Cantidad
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Tipo de Compra'
+		dataType: string
+		lineageTag: b45eabe2-0492-4626-a019-109292f60ba5
+		summarizeBy: none
+		sourceColumn: Tipo de Compra
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Método de Pago'
+		dataType: string
+		lineageTag: 502a3b18-27a6-4d62-9054-64554df60d35
+		summarizeBy: none
+		sourceColumn: Método de Pago
+
+		annotation SummarizationSetBy = Automatic
+
+	column Gerente
+		dataType: string
+		lineageTag: 6984ed7c-3cc6-41ef-8f5b-786aa052204c
+		summarizeBy: none
+		sourceColumn: Gerente
+
+		annotation SummarizationSetBy = Automatic
+
+	column Ciudad
+		dataType: string
+		lineageTag: f8786e5d-510a-4e6a-a1ca-9155ce35a221
+		summarizeBy: none
+		sourceColumn: Ciudad
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'Orden de Productos' = m
+		mode: import
+		source =
+				let
+				    Origen = Excel.Workbook(File.Contents("C:\Users\Heberth\Desktop\Excel\Proyecto_Master_Analista_PBI\Data-Analysis_PBI.xlsx"), null, true),
+				    Tabla_Sheet = Origen{[Item="Tabla",Kind="Sheet"]}[Data],
+				    #"Encabezados promovidos" = Table.PromoteHeaders(Tabla_Sheet, [PromoteAllScalars=true]),
+				    #"Tipo cambiado" = Table.TransformColumnTypes(#"Encabezados promovidos",{{"ID de Orden", Int64.Type}, {"Fecha", type datetime}, {"Producto", type text}, {"Precio", type number}, {"Cantidad", type number}, {"Tipo de Compra", type text}, {"Método de Pago", type text}, {"Gerente", type text}, {"Ciudad", type text}}),
+				    #"Texto recortado" = Table.TransformColumns(#"Tipo cambiado",{{"Gerente", Text.Trim, type text}}),
+				    #"Valor reemplazado" = Table.ReplaceValue(#"Texto recortado","      "," ",Replacer.ReplaceText,{"Gerente"}),
+				    #"Valor reemplazado1" = Table.ReplaceValue(#"Valor reemplazado","    "," ",Replacer.ReplaceText,{"Gerente"}),
+				    #"Duplicados quitados" = Table.Distinct(#"Valor reemplazado1", {"ID de Orden"})
+				in
+				    #"Duplicados quitados"
+
+	annotation PBI_NavigationStepName = Navegación
+
+	annotation PBI_ResultType = Table
+

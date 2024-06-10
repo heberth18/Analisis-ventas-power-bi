@@ -1,0 +1,61 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 156.5
+          },
+          "nodeIndex": "Orden de Productos",
+          "nodeLineageTag": "7e0d338f-c8d1-4f3d-a630-f92a437a6543",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 682,
+            "y": 95.5
+          },
+          "nodeIndex": "Medidas",
+          "nodeLineageTag": "390515fb-b9a9-4c33-9355-4ccfa21c8c59",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 338,
+            "y": 0
+          },
+          "nodeIndex": "Calendario",
+          "nodeLineageTag": "50e0383d-6592-47fb-a8b5-c530f734f7f7",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Todas las tablas",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas las tablas",
+  "defaultDiagram": "Todas las tablas"
+}
