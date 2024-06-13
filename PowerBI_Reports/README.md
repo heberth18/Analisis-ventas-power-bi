@@ -1,6 +1,6 @@
 # Power BI Portfolio Showcase
 
-This is a repository showcasing reports and data created in Power BI.
+Comprehensive Analysis of Company Sales Performance Using Power BI
 
 ## Explanation of the analysis
 
